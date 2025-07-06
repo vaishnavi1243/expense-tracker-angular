@@ -9,13 +9,11 @@ Built following Material Design guidelines, this application provides an intuiti
 ![Dashboard](src/assets/dashboard.png)
 
 ### Login Page
-![Login Page](src/assets/login.png)
+![Login Page](src/assets/dashboardCharts.png)
 
 ### Expenses Page
-![Expenses Page](src/assets/expenses.png)
+![Expenses Page](src/assets/expensedetails.png)
 
-### Import Expenses
-![Import Expenses](src/assets/import-expenses.png)
 
 ### Settings
 ![Settings](src/assets/settings.png)
