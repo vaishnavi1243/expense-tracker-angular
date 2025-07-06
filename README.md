@@ -3,7 +3,22 @@
 Expense Tracker is a clean and simple responsive web application designed for efficient expense management. Originally developed with Angular 4, the application has been continuously modernized to leverage the latest Angular features and capabilities.
 
 Built following Material Design guidelines, this application provides an intuitive and user-friendly interface for managing personal or business expenses. Feel free to reach out with any feedback.
+## Screenshots
 
+### Dashboard
+![Dashboard](src/assets/dashboard.png)
+
+### Login Page
+![Login Page](src/assets/login.png)
+
+### Expenses Page
+![Expenses Page](src/assets/expenses.png)
+
+### Import Expenses
+![Import Expenses](src/assets/import-expenses.png)
+
+### Settings
+![Settings](src/assets/settings.png)
 ## Find app live here
 
 https://expense-tracker-e0028.firebaseapp.com/
